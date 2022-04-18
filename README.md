@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerodotgeka
 - 👀 I’m interested in dentistry and programming
-- 🌱 I’m currently learning C, JavaScript, Python
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me: @jackshevchenko via Telegram
 
